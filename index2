@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es_ES">
+<head>
+<meta charset="UTF-8">
+<link  rel="stylesheet"  href="estilazo.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap" rel="stylesheet">
+
+<title>Baixo Miño</title>
+
+<link rel="icon" href="fotos/photoshop.ico"> 
+
+</head>
+<body>
+
+
+<img src="fotos/deputaciondepontevedra.png" alt="deputaciondepontevedra" style="width:150px;height:80px;">
+<h1>Qué visitar en el Baixo Miño</h1>
+<hr>
+
+<ol>
+<li><a href="tui.html">Tui</a></li>
+<li><a href="orosal.html">O Rosal</a></li>
+<li><a href="oia.html">Oia</a></li>
+<li><a href="gondomar.html">Gondomar</a></li>
+<li><a href="salcedadecaselas.html">Salceda de Caselas</a></li>
+<li><a href="distancias.html">Distancias</a></li>
+<li><a href="formulario.html">Formulario</a></li>
+</ol>
+
+<!--aquí abajo inserta una línea-->
+
+<hr>
+<h4>Visita las páginas de:</h4>
+
+<table border="1">
+<tr><td><h3><a href="https://www.raulbbaquero.wordpress.com"target="_blank"><img src="fotos/raulbbaquero.png" alt="raulbbaquero.png"></a></h3></td><td><h3><a href="https://www.irocho.wordpress.com"target="_blank"><img src="fotos/irocho.png" alt="irocho.png"></a></h3></td></tr>
+</table>
+
+</body>
+</html>
