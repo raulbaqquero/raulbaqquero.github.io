@@ -1,0 +1,34 @@
+body {background-color: #C3FDB8; margin-left: 10px; font-family: 'Lato', sans-serif;}
+h1 {text-align: center;
+	font-family: 'Lato'; sans-serif; }
+h2 {
+	font-family: 'Lato'; sans-serif; }
+h3 {
+	font-family: 'Lato'; sans-serif; }
+h4 {
+	font-family: 'Lato'; sans-serif; }
+ul {
+	font-family: 'Lato'; sans-serif; }
+
+	p {margin-left: 10px;
+		font-size: 15pt;
+		color: blue;}
+/*
+		a:link {color: black; }
+		a:visited {color: black; }
+		*/
+		/*div	{border: 1px solid black; text-align: center;}
+		span	{text-decoration: underline; color: pink; text-shadow: 2px 2px black}
+		/**span aplica estilo al texto**/
+		/*tuneando formularios*/
+		
+		/*p.marron{color: brown; background-color: peach}
+		/*.superimportante {text-align: center;background-color: red; text-decoration: overline;border: 5px}*/
+/*img { width:147px;height:95px;";margin: auto; }*/
+table {
+	padding:25px;
+	background-color:#C0C0C0;
+}
+
+td {padding: 10px}
+tr: nth-child (even) {background-color: green;}

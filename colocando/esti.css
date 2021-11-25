@@ -1,0 +1,37 @@
+p{
+
+	/*margin: 3%;*/
+	color: blue;
+	/*text-align: left;*/
+	/*border: groove;*/
+}
+
+.izquierda {
+    float: left;
+    padding: 5px;
+}
+
+.derecha {
+   	float: right;
+   	padding: 5px;
+}
+
+h1{
+	text-align: center;
+	margin-top: 5%;
+}
+
+body{
+	margin: 5%;
+}
+
+
+li{
+	color: orange;
+	display: inline;
+	padding-right: 20%;
+}
+
+hr{
+	border-style: dotted;
+}
